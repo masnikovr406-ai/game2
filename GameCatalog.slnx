@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="BusinessLogic/BusinessLogic.csproj" />
+  <Project Path="ConsoleView/ConsoleView.csproj" />
+  <Project Path="DataAccessLayer/DataAccessLayer.csproj" />
+  <Project Path="Model/Model.csproj" />
+  <Project Path="Tests/Tests.csproj" />
+  <Project Path="WinFormsView/WinFormsView.csproj" />
+</Solution>
